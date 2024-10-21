@@ -13,8 +13,8 @@ public class Main {
         System.out.println(pelis[2]);
 
         //Modificar valor d'un array
-        pelis[1] = "El Padrino";
-        System.out.println(pelis[1]);
+        pelis[0] = "El Padrino";
+        System.out.println(pelis[0]);
 
         System.out.println("Array pelis té longitud:" + pelis.length);
 
